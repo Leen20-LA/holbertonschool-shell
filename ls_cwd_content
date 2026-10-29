@@ -1,0 +1,13 @@
+total 60
+drwxr-xr-x 6 leen leen  4096 Oct 29 18:04 .
+drwxr-x--- 7 leen leen  4096 Oct 29 18:04 ..
+-rw-r--r-- 1 leen leen 12288 Oct 29 17:20 .1-listit.swp
+-rw-r--r-- 1 leen leen 12288 Oct 29 17:20 .README.MD.swp
+drwxr-xr-x 7 leen leen  4096 Oct 29 18:02 .git
+-rwxr-xr-x 1 leen leen   109 Oct 29 17:20 1-listit
+-rwxr-xr-x 1 leen leen    29 Oct 29 17:36 4-lastlines
+-rwxr-xr-x 1 leen leen    36 Oct 29 18:04 8-cwd_state
+drwxr-xr-x 2 leen leen  4096 Oct 29 17:20 basics
+drwxr-xr-x 2 leen leen  4096 Oct 29 18:02 io_redirections_and_filters
+-rw-r--r-- 1 leen leen     0 Oct 29 18:04 ls_cwd_content
+drwxr-xr-x 2 leen leen  4096 Oct 29 17:20 permissions
